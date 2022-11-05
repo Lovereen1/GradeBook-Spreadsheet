@@ -1,1 +1,1 @@
-# Grading
+In this project, employees are graded on a multiple tests Safety test, Company philosophy test, FInancial skills test and drug test. Then I calculated their percertage with the formula grades acquired/total grades. I also used Or function to to analyse while employee needs to be fired, an employee will be fired if he he did not atleast any of the tests. Then I transformed the data collected for each to column chart.
